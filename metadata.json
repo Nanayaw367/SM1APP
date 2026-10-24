@@ -1,0 +1,6 @@
+{
+  "name": "EduTab - High School Tablet & Asset Inventory",
+  "description": "High school student tablet management system for tracking device and accessory inventories, repairs, loan statuses, assignment history, and CSV bulk import/export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
